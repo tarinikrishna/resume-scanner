@@ -955,7 +955,7 @@ A production-ready deployment can follow:
 
 # 👨‍💻 Contributors
 
-- **SINDULURI TEJASREE** — Project Developer
+- * TARINI KRISHNA** — Project Developer
 
 ---
 
@@ -988,7 +988,7 @@ git push origin feature/your-feature
 
 # 📜 License
 
-Copyright (c) 2026 SINDULURI TEJASREE
+Copyright (c) 2026 TARINI KRISHNA
 
 This project is developed for educational, portfolio, and demonstration purposes.
 
@@ -1022,7 +1022,7 @@ THE SOFTWARE.
 
 **AI-Powered Resume Screening & Intelligent Candidate Matching**
 
-Built with ❤️ by **SINDULURI TEJASREE** using Java, Spring Boot, MySQL and AI.
+Built with ❤️ by * TARINI KRISHNA** using Java, Spring Boot, MySQL and AI.
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
